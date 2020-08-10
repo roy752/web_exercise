@@ -1,2 +1,2 @@
-# web_exercise
-a workspace for my web programming &amp;web project
+# web_simpleisthebest
+a simple page with simple HTML
